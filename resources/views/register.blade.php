@@ -14,7 +14,7 @@
             <h3 style="color: white;">Welcome</h3>
             <p style="color: white;">Semangat Comit..!! Salam Technology</p>
             <!-- <input type="submit" name="" value="Login"/><br/> -->
-            <p><img src="{{ asset('/image/qr-comit.png') }}" width="200" height="200"></p>
+            <p><img src="{{ asset('/image/comit-wayout.png') }}" width="200" height="200"></p>
             <p style="color:white;">Scan me</p>
         </div>
         <div class="col-md-9 register-right">
