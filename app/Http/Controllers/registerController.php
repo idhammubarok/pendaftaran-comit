@@ -24,7 +24,7 @@ class registerController extends Controller
         $data->jurusan = $request->get('jurusan');
         $data->semester = $request->get('semester');
         $data->peminatan = $request->get('peminatan');
-        // $data->save();
+        $data->save();
         
         if ($data) {
             return redirect('/register')->with('alert','Register Succesfully ');
