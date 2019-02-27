@@ -87,14 +87,14 @@
                                        
                                     </select>
                                 </div>
-                                <div class="form-group">
+                                <!--<div class="form-group">
                                     <select class="form-control" name="peminatan" required>
                                         <option class="hidden" value="" selected disabled>Peminatan</option>
                                         <option>Networking</option>
                                         <option>Programming</option>
                                         <option>Graphic Design</option>
                                     </select>
-                                </div>
+                                </div>-->
                                 <input type="submit" class="btnRegister"  value="Register"/>
                             </div>
                         </div>
