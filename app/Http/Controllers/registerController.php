@@ -23,7 +23,7 @@ class registerController extends Controller
         $data->alamat = $request->get('alamat');
         $data->jurusan = $request->get('jurusan');
         $data->semester = $request->get('semester');
-//         $data->peminatan = $request->get('peminatan');
+        $data->peminatan = $request->get('');
         $data->save();
         
         if ($data) {
