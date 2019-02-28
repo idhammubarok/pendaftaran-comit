@@ -23,7 +23,7 @@ class CreateRegistersTable extends Migration
             $table->string('alamat');
             $table->string('jurusan');
             $table->integer('semester');
-            $table->string('peminatan');
+            $table->string('peminatan')nullable->();
             $table->timestamps();
         });
     }
