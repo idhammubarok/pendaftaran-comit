@@ -74,7 +74,7 @@
                                         <option value="Sistem infromasi">Sistem infromasi</option>
                                         <option value="Sistem Informasi akuntansi">Sistem Informasi akuntansi</option>
                                         <option value="Akuntansi">Akuntansi</option>
-                                        <option value=">Manajemen">Manajemen</option>
+                                        <option value="Manajemen">Manajemen</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
